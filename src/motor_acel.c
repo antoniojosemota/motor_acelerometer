@@ -63,6 +63,6 @@ int main()
         servo_set_angle(angle);
         sleep_ms(100);
         inclination_display(inclination);
-        sleep_ms(100);
+        sleep_ms(500);
 }
 } 
